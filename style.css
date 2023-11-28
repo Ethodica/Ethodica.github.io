@@ -1,1 +1,52 @@
+p {
+font-size: 12px;
+}
 
+p {
+  color:blue;
+}
+
+
+ul {
+  font-size: 10px;
+}
+
+ul {
+  color:red;
+}
+
+
+ol {
+  font-size: 10px;
+}
+
+ol {
+  color:orange;
+}
+
+
+h1 {
+  font-size: 20px;
+}
+
+h1 {
+  font-weight: bold;
+}
+
+
+header {
+  font-family: arial;
+}
+
+header {
+  font-weight: bold;
+}
+
+
+body {
+  font-family: Calibri;
+}
+
+body {
+  font-size: 14px;
+}
