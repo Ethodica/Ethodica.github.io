@@ -7,6 +7,7 @@ p {
 }
 
 
+
 ul {
   font-size: 10px;
 }
@@ -14,6 +15,7 @@ ul {
 ul {
   color:red;
 }
+
 
 
 ol {
@@ -25,6 +27,7 @@ ol {
 }
 
 
+
 h1 {
   font-size: 20px;
 }
@@ -34,6 +37,7 @@ h1 {
 }
 
 
+
 header {
   font-family: arial;
 }
@@ -41,6 +45,7 @@ header {
 header {
   font-weight: bold;
 }
+
 
 
 body {
